@@ -1,0 +1,4 @@
+unit test
+objektum orientált (több fájlba)
+spring
+adatbázis (opcionális i guess)
